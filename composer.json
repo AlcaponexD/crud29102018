@@ -1,0 +1,7 @@
+{
+    "name": "lionsoft/klik_fit",
+    "description": "Crud klikfit",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {}
+}
